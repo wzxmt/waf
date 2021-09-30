@@ -43,7 +43,7 @@ li{ list-style-type:none;}
 </style>
 </head>
 <body style=" padding:0; margin:0; font:14px/1.5 Microsoft Yahei, 宋体,sans-serif; color:#555;">
- <div style="margin: 0 auto; width:1000px; padding-top:70px; overflow:hidden;">
+ <div style="margin: 0 auto; width:500px; padding-top:70px; overflow:hidden;">
   
   
   <div style="width:600px; float:left;">
